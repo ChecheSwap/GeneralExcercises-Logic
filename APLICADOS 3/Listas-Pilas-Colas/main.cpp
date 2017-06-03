@@ -7,10 +7,6 @@
 //#include "cola_1.h"
 //#include "lista.h"
 
-
-
-
-
 using namespace std;
 
 int main()
