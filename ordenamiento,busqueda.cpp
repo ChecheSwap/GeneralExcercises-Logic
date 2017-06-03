@@ -2,7 +2,6 @@
 
 using namespace std;
 
-
 void quicksort(int*arr,int lef,int rig){
     int pivot = arr[lef+(rig-lef)/2];
     int i= lef;
