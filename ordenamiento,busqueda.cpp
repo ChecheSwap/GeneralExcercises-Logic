@@ -1,7 +1,7 @@
 #include <iostream>
 //Code By: Jesus Jose Navarrete Baca
 using namespace std;
-void shell()
+void bubble()
 {
 
     unsigned int n = 5;
