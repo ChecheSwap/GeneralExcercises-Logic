@@ -500,7 +500,7 @@ void print(){
     cout<<"2) Registro de Calificaciones."<<endl;
     cout<<"3) Modificar Calificaciones."<<endl;
     cout<<"4) Calcular Promedio"<<endl;
-    cout<<"5) Generar Orden de inscripcion"<<endl;
+    cout<<"5) Generar Orden de inscripcion"<<endl;//PRIMERO 0 MATERIAS REPOBADAS Y MAYOR PROMEDIO,ASI SUCESIVAMENTE.
     cout<<"6) Imprimir Orden de inscripcion"<<endl;
     cout<<"7) Salir"<<endl<<endl;
     cout<<"->Ingrese Opcion: ";
